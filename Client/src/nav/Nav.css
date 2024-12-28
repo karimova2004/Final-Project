@@ -1,0 +1,11 @@
+.nav{
+
+    display: flex;
+    justify-content: space-around;
+    .link{
+        color: black;
+        padding: 2%;
+        border: 1px solid gray;
+        text-decoration: none;
+    }
+}
